@@ -16,19 +16,9 @@ This is a simple URL Shortener web application built using Python and Flask. It 
 - Flask
 - SQLite
 
-## How to Run
-1. Install Flask:
-   pip install Flask
-
-2. Run the application:
-   python app.py
-
-3. Open in browser:
-   http://127.0.0.1:5000/
-
 ## Project Structure
 - app.py (main application)
 - README.md (project documentation)
 
 ## Author
-Your Name
+Venisha P Champaneri
